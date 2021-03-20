@@ -6,4 +6,13 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
+
+  html {
+    font-size: 62.5%;
+    font-family: 'Roboto', 'Poppins', sans-serif;
+  }
+
+  body {
+    font: 400 1.6rem 'Roboto';
+  }
 `;
